@@ -1,0 +1,29 @@
+.summary {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: space-around;
+  padding: 20px;
+  margin-top: 20px;
+  border: 2px solid lightgrey;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.results {
+  margin-bottom: 20px;
+}
+
+p {
+  margin: 0;
+  font-size: 18px;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}

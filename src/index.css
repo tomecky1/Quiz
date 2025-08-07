@@ -1,0 +1,16 @@
+:root {
+  --main-color: lightgrey;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: white;
+  margin: 0 auto;
+  padding: 20px;
+}
